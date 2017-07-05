@@ -63,7 +63,7 @@
 			if($u > $d)
 			{
 				$ud ="上";
-			}elseif($u > $d)
+			}elseif($u < $d)
 			{
 				$ud ="下";
 			}else
